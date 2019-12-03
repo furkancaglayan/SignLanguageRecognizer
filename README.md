@@ -3,7 +3,18 @@ __Contributers:__ [Aybuke Yalciner](https://github.com/AybukeYALCINER "GitHub"),
 
 
 
-## License
+## 1.License
+This work is licensed under [MIT license]().
+
+## 2.Dataset
+We created our own dataset and used 24 different gestures/letter signs. Images are taken from 2 different signers and there are **1560** train samples, **360** validation and **360** test data. We preferred to use pretrained VGG model as classifier and achieved **99%** accuracy. But you are free yo use the dataset however you like.
+
+## 3.Prerequisites
+
+### OpenCV
+### PyTorch and TorchVision
+
+
 
 In this study, we collect our own dataset and used 24 different gestures. Images are taken from 2 people and there are 1560 train data,
 360 validation and 360 test data. We prefer to use pretrained VGG model as classifier. After we train the model, we come up with about 
