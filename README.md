@@ -4,7 +4,7 @@ __Contributers:__ [Aybuke Yalciner](https://github.com/AybukeYALCINER "GitHub"),
 
 
 ## 1.License
-This work is licensed under [MIT license]().
+This work is licensed under [MIT license](https://github.com/furkancaglayan/SignLanguageRecognizer/blob/master/LICENSE).
 
 ## 2.Dataset
 We created our own dataset and used 24 different gestures/letter signs. Images are taken from 2 different signers and there are **1560** train samples, **360** validation and **360** test data. We preferred to use pretrained VGG model as classifier and achieved **99%** accuracy. But you are free yo use the dataset however you like.
